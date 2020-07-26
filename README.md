@@ -4,6 +4,7 @@
 ### resources:
   iot y tasmota:
   - [x] https://tasmota.github.io/docs/devices/Sonoff-RF-Bridge-433/
+  - [x] https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=es_MX
   - [x] https://tasmota.github.io/docs/AWS-IoT/
   - [x] https://tasmota.github.io/docs/Gitpod/
 
