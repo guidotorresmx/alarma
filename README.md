@@ -1,7 +1,7 @@
 # alarma
-alarma para casa que llama por telefono 
+## alarma para casa que llama por telefono 
 
-resources:
+### resources:
   iot y tasmota:
   - [x] https://tasmota.github.io/docs/devices/Sonoff-RF-Bridge-433/
   - [x] https://tasmota.github.io/docs/AWS-IoT/
